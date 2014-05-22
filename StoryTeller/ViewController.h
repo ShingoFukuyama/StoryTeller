@@ -7,9 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <AVFoundation/AVFoundation.h>
 
-@interface ViewController : UIViewController<UIPickerViewDelegate, UIPickerViewDataSource,AVSpeechSynthesizerDelegate>
+@interface ViewController : UIViewController
 
 @property (weak, nonatomic) IBOutlet UITextView *textToRead;
 @property (weak, nonatomic) IBOutlet UISwitch *onair;

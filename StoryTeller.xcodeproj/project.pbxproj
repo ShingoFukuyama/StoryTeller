@@ -200,7 +200,7 @@
 		1889BBD817F329CC0009013A /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0500;
+				LastUpgradeCheck = 0510;
 				ORGANIZATIONNAME = Toyship.org;
 				TargetAttributes = {
 					1889BBDF17F329CC0009013A = {
